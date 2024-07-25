@@ -56,5 +56,3 @@ Estas variables se obtienen al tener una [cuenta de AWS](https://aws.amazon.com)
    ```bash
    terraform destroy
    ```
-
-Estos pasos asegurarán una implementación adecuada de la infraestructura en AWS utilizando Terraform.
